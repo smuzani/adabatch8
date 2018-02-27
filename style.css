@@ -1,0 +1,32 @@
+/* comment */
+
+* {
+}
+
+h2 {
+	color: lime;
+	background-color: gray;
+	border: 2px dotted blue;
+	border-radius: 8px;
+	padding: 30px;
+	margin: 40px;
+	margin-right: 100px;
+}
+
+p {
+  font-weight: lighter;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	border: 1px solid;
+}
+
+
+
